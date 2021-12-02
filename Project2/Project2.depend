@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1636089855 source:c:\users\krist\desktop\fall 2021\data structures\project2\project2\main.cpp
+	"Node.h"
+	"Stack.h"
+	"TestNode.h"
+	"TestStack.h"
+	<cstddef>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+
+1636086254 c:\users\krist\desktop\fall 2021\data structures\project2\project2\node.h
+	<vector>
+	<iostream>
+	<cstddef>
+
+1636085158 c:\users\krist\desktop\fall 2021\data structures\project2\project2\stack.h
+	"Node.h"
+	<vector>
+	<iostream>
+	<cstddef>
+
+1636086525 c:\users\krist\desktop\fall 2021\data structures\project2\project2\testnode.h
+	"Node.h"
+	<cstddef>
+	<iostream>
+	<string>
+
+1636086513 c:\users\krist\desktop\fall 2021\data structures\project2\project2\teststack.h
+	"Node.h"
+	"Stack.h"
+	<cstddef>
+	<iostream>
+	<string>
+	<vector>
+
+1636086275 source:c:\users\krist\desktop\fall 2021\data structures\project2\project2\node.cpp
+	"Node.h"
+	<vector>
+	<iostream>
+	<cstddef>
+
+1636085763 source:c:\users\krist\desktop\fall 2021\data structures\project2\project2\stack.cpp
+	"Stack.h"
+	"Node.h"
+	<vector>
+	<iostream>
+	<cstddef>
+

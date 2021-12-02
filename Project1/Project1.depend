@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1634764192 source:c:\users\krist\desktop\fall 2021\data structures\project1\project1\main.cpp
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+	"Student.h"
+	"Course.h"
+	"Records.h"
+	"TestPerson.h"
+	"TestStudent.h"
+	"TestCourse.h"
+	"TestRecords.h"
+
+1634706468 source:c:\users\krist\desktop\fall 2021\data structures\project1\project1\src\person.cpp
+	<iostream>
+	<string>
+	<stdint-gcc.h>
+	"Person.h"
+
+1634623143 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\person.h
+	<iostream>
+	<string>
+	<stdint-gcc.h>
+
+1634706588 source:c:\users\krist\desktop\fall 2021\data structures\project1\project1\src\course.cpp
+	<iostream>
+	<string>
+	<stdint-gcc.h>
+	"Course.h"
+
+1634588165 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\course.h
+	<iostream>
+	<string>
+	<stdint-gcc.h>
+
+1634764298 source:c:\users\krist\desktop\fall 2021\data structures\project1\project1\src\records.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<stdint-gcc.h>
+	"Records.h"
+
+1634692478 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\records.h
+	<iostream>
+	<stdint-gcc.h>
+	<string>
+	"Student.h"
+
+1634595566 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\student.h
+	<iostream>
+	<stdint-gcc.h>
+	<string>
+	"Person.h"
+	"Course.h"
+
+1634706517 source:c:\users\krist\desktop\fall 2021\data structures\project1\project1\src\student.cpp
+	<iostream>
+	<string>
+	<stdint-gcc.h>
+	"Student.h"
+	"Course.h"
+
+1634700782 source:c:\users\krist\desktop\fall 2021\data structures\project1\project1\src\test.cpp
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+	"Student.h"
+	"Course.h"
+	"Records.h"
+
+1634701380 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\test.h
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+	"Student.h"
+	"Course.h"
+	"Records.h"
+
+1634763840 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\testperson.h
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+
+1634763776 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\teststudent.h
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+	"Student.h"
+
+1634763791 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\testcourse.h
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+	"Student.h"
+	"Course.h"
+
+1634763842 c:\users\krist\desktop\fall 2021\data structures\project1\project1\include\testrecords.h
+	<iostream>
+	<ios>
+	<string>
+	<stdint-gcc.h>
+	<fstream>
+	<limits>
+	"Person.h"
+	"Student.h"
+	"Course.h"
+	"Records.h"
+

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1638683526 source:c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+	<iostream>
+
+1638683576 c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\edge.h
+	<memory>
+
+1638683597 c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\vertex.h
+	<memory>
+	<string>
+	<vector>
+
+1638683506 source:c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\graph.cpp
+	"Graph.h"
+	<algorithm>
+	<iostream>
+
+1638683587 c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\graph.h
+	<vector>
+	<deque>
+	"Edge.h"
+	"Vertex.h"
+
+1638674458 source:c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\main.cpp
+	<algorithm>
+	<cstring>
+	<iostream>
+	<fstream>
+	<sstream>
+	"Edge.h"
+	"Graph.h"
+	"Vertex.h"
+	"VertexTest.h"
+	"EdgeTest.h"
+	"GraphTest.h"
+
+1638683431 source:c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\vertex.cpp
+	"Vertex.h"
+	<algorithm>
+	<cstring>
+	"Edge.h"
+
+1638674775 c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\vertextest.h
+	"Vertex.h"
+	"Edge.h"
+	<iostream>
+
+1638674775 c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\edgetest.h
+	"Edge.h"
+	"Vertex.h"
+	<iostream>
+
+1638674775 c:\users\krist\desktop\project3_graphman\project3_kristerlawlor\graphtest.h
+	"Graph.h"
+	"Edge.h"
+	"Vertex.h"
+	<iostream>
+
